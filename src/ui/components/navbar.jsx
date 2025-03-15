@@ -42,6 +42,12 @@ replace:true
                         Search
                     </NavLink>
 
+                    <NavLink
+                    to="hero"
+                    >
+
+                    </NavLink>
+
                     <NavLink 
                     to='/login'
                     >
