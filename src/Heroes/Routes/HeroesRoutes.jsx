@@ -3,7 +3,7 @@ import { Navbar } from '../../ui/components/navbar'
 import { Route,Routes,Navigate } from 'react-router-dom'
 import {MarvelPage} from '../Pages/MarvelPage'
 import {DcPages} from '../Pages/DcPages'
-import { Search } from '../Pages/Search'
+import { Search } from '../Pages/SearchPage'
 import { HeroPage } from '../Pages/HeroPage'
 export const HeroesRoutes = () => {
   return (
